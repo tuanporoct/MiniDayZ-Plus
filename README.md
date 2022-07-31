@@ -3,7 +3,7 @@
 [![Survivor](./survivor.png)](https://nextdev56.github.io/MiniDayZ/)
 
 ### [Click Me!](https://nextdev56.github.io/MiniDayZ/)
-## Notes
+## Notesx
 * Change controls from stick to tap/draw for PC
 * F11/Fullscreen before the game loads
 
